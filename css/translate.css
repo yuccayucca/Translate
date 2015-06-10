@@ -1,0 +1,36 @@
+body {
+	font-size: 16px;
+	background:#f4f4f4;
+}
+
+p, span, li, a, input, button {
+	font-family: helvetica, sans-serif;
+}
+
+h1, h2 {
+	font-family: helvetica, sans-serif;
+	color:#4a4c4f;
+}
+
+textarea{
+	width: 400px;
+	height: 120px;
+	border: 3px solid #cccccc;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+	font-size: 20px;
+}
+
+div#en{
+	float: left;
+	padding: 5px;
+}
+
+div#out{
+	padding: 5px;
+}
+
+select, #translate {
+	font-family: helvetica, sans-serif;
+	font-size: 24px;
+}
